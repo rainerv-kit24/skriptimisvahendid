@@ -1,0 +1,75 @@
+{
+  "ajamäär": "2026-04-21T11:28:54Z",
+  "host": "DESKTOP-VS71S06",
+  "kasutaja": "SiimA",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0.26200",
+    "release": "11",
+    "arhitektuur": "64bit"
+  },
+  "python": "3.14.3",
+  "cpu": {
+    "mudel": "AMD Ryzen 7 5800X3D 8-Core Processor",
+    "südamikud_füüsilised": 8,
+    "südamikud_loogilised": 16,
+    "kasutus_protsent": 5.3
+  },
+  "mälu": {
+    "kokku_gb": 34.3,
+    "kasutuses_gb": 17.2,
+    "vaba_gb": 17.1,
+    "kasutus_protsent": 50.1
+  },
+  "kettad": [
+    {
+      "mount": "C:\\",
+      "fs": "NTFS",
+      "kokku_gb": 249.1,
+      "kasutuses_gb": 226.4,
+      "vaba_gb": 22.7,
+      "vaba_protsent": 9.1
+    },
+    {
+      "mount": "D:\\",
+      "fs": "NTFS",
+      "kokku_gb": 240.1,
+      "kasutuses_gb": 115.1,
+      "vaba_gb": 125.0,
+      "vaba_protsent": 52.1
+    },
+    {
+      "mount": "E:\\",
+      "fs": "NTFS",
+      "kokku_gb": 1000.2,
+      "kasutuses_gb": 909.1,
+      "vaba_gb": 91.1,
+      "vaba_protsent": 9.1
+    },
+    {
+      "mount": "F:\\",
+      "fs": "NTFS",
+      "kokku_gb": 1000.2,
+      "kasutuses_gb": 390.1,
+      "vaba_gb": 610.1,
+      "vaba_protsent": 61.0
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet",
+      "ipv4": "192.168.3.4",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Loopback Pseudo-Interface 1",
+      "ipv4": "127.0.0.1",
+      "ühendatud": true
+    },
+    {
+      "nimi": "vEthernet (Default Switch)",
+      "ipv4": "172.19.224.1",
+      "ühendatud": true
+    }
+  ]
+}

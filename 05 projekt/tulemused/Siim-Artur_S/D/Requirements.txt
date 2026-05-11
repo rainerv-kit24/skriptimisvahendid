@@ -1,0 +1,6 @@
+Enne käivitamist tuleb installida psutil:
+	Seda saab tehe jooksutades powershellis commandi:
+		pip install psutil
+
+	Kontroll:
+		python -c "import psutil; print(psutil.__version__)"
