@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ keskkond }} - {{ inventory_hostname }}</title>
+</head>
+<body style="background: {{ varv }}; font-family: sans-serif; padding: 3em; text-align: center;">
+  <h1>{{ keskkond }}</h1>
+  <p>Server: <strong>{{ inventory_hostname }}</strong></p>
+  <p>IP: {{ ansible_default_ipv4.address }}</p>
+</body>
+</html>

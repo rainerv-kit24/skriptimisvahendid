@@ -1,0 +1,22 @@
+---
+- name: Seadista veebiserverid keskkonna järgi
+  hosts: veebiserverid
+  become: yes
+
+  tasks:
+
+    - name: Veendu, et nginx on paigaldatud
+      apt:
+        name: nginx
+        state: present
+        update_cache: yes
+
+    - name: Genereeri avaleht template'ist
+      template:
+        src: index.html.j2
+        dest: /var/www/html/index.nginx-debian.html
+
+    - name: Veendu, et nginx töötab
+      service:
+        name: nginx
+        state: started

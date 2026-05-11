@@ -1,0 +1,6 @@
+"Nimi","Host","Port","Olek","Viivitus_ms","Kontrollitud","Kirjeldus"
+"google","google.com","443","OK","113","2026-04-21 12:36:46","Avalik võrgutest"
+"github","github.com","443","OK","132","2026-04-21 12:36:46","Git push"
+"oma-ruuter","192.168.1.254","80","OK","4597","2026-04-21 12:36:50","Koduvõrgu gateway"
+"olematu","ei-ole-olemas.invalid","443","FAIL","9","2026-04-21 12:36:50","Peab maas olema (test)"
+"localhost-ssh","127.0.0.1","22","FAIL","6621","2026-04-21 12:36:57","Lokaalne SSH"
