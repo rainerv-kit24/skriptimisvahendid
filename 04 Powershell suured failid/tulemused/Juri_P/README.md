@@ -29,3 +29,7 @@ Käitumine:
 - Käsitleb vigu `try/catch` plokis ja ei katkesta kutsuva skripti tööd, kui saatmine ebaõnnestub.
 
 ---
+
+# ID-tarkvara 
+
+- **kontrolli-id-tarkvara.ps1** - skript koos integreeritatute Discord sõnumiga channelisse. 

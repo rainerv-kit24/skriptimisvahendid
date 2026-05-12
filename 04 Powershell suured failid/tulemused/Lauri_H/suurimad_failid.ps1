@@ -40,3 +40,17 @@ $outputFile = Join-Path $scriptPath "suurimad_failid.csv"
 $result | Export-Csv -Path $outputFile -NoTypeInformation -Encoding UTF8
 
 Write-Host "Valmis! Fail salvestatud: $outputFile"
+
+Import-Module .\Saada-Teavitus.psm1
+
+foreach ($file in $files) {
+
+    $sizeGB = [math]::Round($file.Length / 1GB, 2)
+
+    if ($file.Length -ge 5GB) {
+        Send-AlertMessage -Message "Väga suur fail: $($file.Name) ($sizeGB GB)" -Severity Critical
+    }
+    elseif ($file.Length -ge 1GB) {
+        Send-AlertMessage -Message "Suur fail: $($file.Name) ($sizeGB GB)" -Severity Warning
+    }
+}

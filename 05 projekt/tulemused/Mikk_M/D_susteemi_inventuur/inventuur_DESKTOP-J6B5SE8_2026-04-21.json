@@ -1,0 +1,83 @@
+{
+  "ajamäär": "2026-04-21T09:58:59Z",
+  "host": "DESKTOP-J6B5SE8",
+  "kasutaja": "Kasutaja",
+  "python": "3.13.2",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0.19045",
+    "release": "10",
+    "arhitektuur": "64bit",
+    "masina_tüüp": "AMD64"
+  },
+  "cpu": {
+    "mudel": "Intel64 Family 6 Model 142 Stepping 9, GenuineIntel",
+    "südamikud_füüsilised": 2,
+    "südamikud_loogilised": 4,
+    "kasutus_protsent": 0.8
+  },
+  "mälu": {
+    "kokku_gb": 15.88,
+    "kasutuses_gb": 9.81,
+    "vaba_gb": 6.07,
+    "kasutus_protsent": 61.8
+  },
+  "kettad": [
+    {
+      "haakepunkt": "C:\\",
+      "seade": "C:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 237.87,
+      "vaba_gb": 14.29,
+      "kasutatud_gb": 223.59,
+      "kasutus_protsent": 94.0
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet",
+      "ipv4": "169.254.109.203",
+      "ühendatud": false
+    },
+    {
+      "nimi": "vEthernet (Default Switch)",
+      "ipv4": "172.27.32.1",
+      "ühendatud": true
+    },
+    {
+      "nimi": "vEthernet (InternalSwitch)",
+      "ipv4": "169.254.188.38",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Ethernet 2",
+      "ipv4": "192.168.56.1",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Network Bridge",
+      "ipv4": "192.168.1.54",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Local Area Connection* 3",
+      "ipv4": "169.254.81.22",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Local Area Connection* 10",
+      "ipv4": "169.254.11.196",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Bluetooth Network Connection",
+      "ipv4": "169.254.168.104",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Loopback Pseudo-Interface 1",
+      "ipv4": null,
+      "ühendatud": true
+    }
+  ]
+}

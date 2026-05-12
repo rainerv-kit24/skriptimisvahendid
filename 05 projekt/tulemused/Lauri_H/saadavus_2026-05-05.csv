@@ -1,0 +1,6 @@
+"Nimi","Host","Port","Olek","Viivitus_ms","Kontrollitud","Kirjeldus"
+"google","System.Management.Automation.Internal.Host.InternalHost","443","OK","-","2026-05-05 12:22:08","Avalik võrgutest"
+"github","System.Management.Automation.Internal.Host.InternalHost","443","OK","-","2026-05-05 12:22:08","Git push"
+"oma-ruuter","System.Management.Automation.Internal.Host.InternalHost","80","OK","-","2026-05-05 12:22:13","Koduvõrgu gateway"
+"olematu","System.Management.Automation.Internal.Host.InternalHost","443","FAIL","-","2026-05-05 12:22:13","Peab maas olema (test)"
+"localhost-ssh","System.Management.Automation.Internal.Host.InternalHost","22","OK","-","2026-05-05 12:22:19","Lokaalne SSH"

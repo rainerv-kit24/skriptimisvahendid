@@ -1,0 +1,51 @@
+04/20/2026 11:16:14 OK TEST töötab
+04/20/2026 11:34:00 OK TEST moodul töötab
+2026-04-20 12:03:17 OK - Critical - Väga suur fail: win7-sysprep-disk1.vdi (9.9 GB) - PowerShellScript
+2026-04-20 12:03:18 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.3 GB) - PowerShellScript
+2026-04-20 12:03:18 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.0 GB) - PowerShellScript
+2026-04-20 12:03:18 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (4.9 GB) - PowerShellScript
+2026-04-20 12:03:19 OK - Warning - Suur fail: export-i-51630a6d26d68bc7t-disk-1.vdi (4.1 GB) - PowerShellScript
+2026-04-20 12:03:20 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (3.7 GB) - PowerShellScript
+2026-04-20 12:03:20 OK - Warning - Suur fail: Deb1210.vdi (2.7 GB) - PowerShellScript
+2026-04-20 12:03:34 OK - Critical - Väga suur fail: win7-sysprep-disk1.vdi (9.9 GB) - PowerShellScript
+2026-04-20 12:03:35 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.3 GB) - PowerShellScript
+2026-04-20 12:03:35 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.0 GB) - PowerShellScript
+2026-04-20 12:03:35 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (4.9 GB) - PowerShellScript
+2026-04-20 12:03:35 OK - Warning - Suur fail: export-i-51630a6d26d68bc7t-disk-1.vdi (4.1 GB) - PowerShellScript
+2026-04-20 12:03:36 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (3.7 GB) - PowerShellScript
+2026-04-20 12:03:36 OK - Warning - Suur fail: Deb1210.vdi (2.7 GB) - PowerShellScript
+2026-04-20 12:04:29 OK - Critical - Väga suur fail: win7-sysprep-disk1.vdi (9.9 GB) - PowerShellScript
+2026-04-20 12:04:30 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.3 GB) - PowerShellScript
+2026-04-20 12:04:30 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.0 GB) - PowerShellScript
+2026-04-20 12:04:31 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (4.9 GB) - PowerShellScript
+2026-04-20 12:04:31 OK - Warning - Suur fail: export-i-51630a6d26d68bc7t-disk-1.vdi (4.1 GB) - PowerShellScript
+2026-04-20 12:04:31 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (3.7 GB) - PowerShellScript
+2026-04-20 12:04:31 OK - Warning - Suur fail: Deb1210.vdi (2.7 GB) - PowerShellScript
+2026-04-20 12:07:23 FAIL - Critical - Väga suur fail: win7-sysprep-disk1.vdi (9.9 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:07:23 FAIL - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.3 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:07:23 FAIL - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.0 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:07:23 FAIL - Warning - Suur fail: Deb12NoGui-disk001.vdi (4.9 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:07:23 FAIL - Warning - Suur fail: export-i-51630a6d26d68bc7t-disk-1.vdi (4.1 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:07:23 FAIL - Warning - Suur fail: Deb12NoGui-disk001.vdi (3.7 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:07:23 FAIL - Warning - Suur fail: Deb1210.vdi (2.7 GB) - PowerShellScript - No such host is known.
+2026-04-20 12:08:23 OK - Info - See peaks logima vea - PowerShellScript
+2026-04-20 12:08:50 FAIL - Info - See peaks logima vea - PowerShellScript - No such host is known.
+2026-04-20 12:09:29 OK - Critical - Väga suur fail: win7-sysprep-disk1.vdi (9.9 GB) - PowerShellScript
+2026-04-20 12:09:29 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.3 GB) - PowerShellScript
+2026-04-20 12:09:29 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.0 GB) - PowerShellScript
+2026-04-20 12:09:30 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (4.9 GB) - PowerShellScript
+2026-04-20 12:09:31 OK - Warning - Suur fail: export-i-51630a6d26d68bc7t-disk-1.vdi (4.1 GB) - PowerShellScript
+2026-04-20 12:09:31 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (3.7 GB) - PowerShellScript
+2026-04-20 12:09:32 OK - Warning - Suur fail: Deb1210.vdi (2.7 GB) - PowerShellScript
+2026-04-20 14:00:16 OK - Warning - ID-tarkvara ei ole paigaldatud. Uusim versioon: 25.10.23.8403 - PowerShellScript
+2026-04-20 14:02:41 OK - Critical - ID-tarkvara on OLULISELT aegunud! Kohalik: 2.4.0.865, uusim: 25.10.23.8403 - PowerShellScript
+2026-04-20 14:05:38 OK - Critical - ID-tarkvara on OLULISELT aegunud! Kohalik: 2.4.0.865, uusim: 25.10.23.8403 - PowerShellScript
+2026-04-20 14:14:08 OK - Critical - ID-tarkvara on OLULISELT aegunud! Kohalik: 2.4.0.865, uusim: 25.10.23.8403 - PowerShellScript
+2026-04-21 10:15:11 OK - Critical - ID-tarkvara on OLULISELT aegunud! Kohalik: 2.4.0.865, uusim: 25.10.23.8403 - PowerShellScript
+2026-04-21 10:15:37 OK - Critical - Väga suur fail: win7-sysprep-disk1.vdi (9.9 GB) - PowerShellScript
+2026-04-21 10:15:37 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.3 GB) - PowerShellScript
+2026-04-21 10:15:37 OK - Critical - Väga suur fail: Deb12NoGui-disk001.vdi (6.0 GB) - PowerShellScript
+2026-04-21 10:15:38 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (4.9 GB) - PowerShellScript
+2026-04-21 10:15:38 OK - Warning - Suur fail: export-i-51630a6d26d68bc7t-disk-1.vdi (4.1 GB) - PowerShellScript
+2026-04-21 10:15:39 OK - Warning - Suur fail: Deb12NoGui-disk001.vdi (3.7 GB) - PowerShellScript
+2026-04-21 10:15:39 OK - Warning - Suur fail: Deb1210.vdi (2.7 GB) - PowerShellScript
